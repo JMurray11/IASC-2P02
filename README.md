@@ -6,5 +6,5 @@
 
 # Blog Post
 
-first sentence of blog post goes here
-
+[Blog Post Here](Blog)
+ 
