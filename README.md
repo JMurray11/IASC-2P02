@@ -2,7 +2,7 @@
 
 ## About Me
 
-![](images/OKCArena.jpg)
+![](images/OKCArena.JPG)
 
 # Blog Post
 
