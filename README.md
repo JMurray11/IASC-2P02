@@ -8,5 +8,5 @@ I am a second year IASC student. I am hoping that this educational path will all
 
 # Blog Post
 
-[Blog Post Here](Blog)
+[Blog Post Here](Blog.md)
  
