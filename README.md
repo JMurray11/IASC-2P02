@@ -10,3 +10,6 @@ I am a second year IASC student. I am hoping that this educational path will all
 
 [Blog Post Here](Blog.md)
  
+# Solo Presentation
+
+[Click Here](Insert Link here in edit)
