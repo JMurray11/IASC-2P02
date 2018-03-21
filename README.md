@@ -10,4 +10,4 @@ I am a second year IASC student. I am hoping that this educational path will all
  
 # Solo Presentation
 
-[Click Here](Insert Link here in edit)
+[Click Here](IASC-2P02/reveal/index.html)
