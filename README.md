@@ -6,8 +6,8 @@ I am a second year IASC student. I am hoping that this educational path will all
 
 # Blog Post
 
-[Blog Post Here](Blog.md)
+[A Take on Humanities Approaches to Graphical Display](Blog.md)
  
 # Solo Presentation
 
-[Click Here](reveal)
+[The Nokia N-Gage](reveal)
