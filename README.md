@@ -8,6 +8,8 @@ I am a second year IASC student. I am hoping that this educational path will all
 
 ## Featured Project: Nokia N-Gage Solo Presentation
 
+![](Images/ngage.jpg)
+
 The project that I chose to feature in my portfolio is the solo presentation I gave on the outdated technology called the Nokia N-Gage. For this project, we were tasked with creating a slideshow presentation in the Pecha Kucha format, where each slide could take only twenty seconds apiece. This time constriction forces the presenter to give only the most valuable information in a very concise manner. I have chosen this presentation as my featured project due to the purpose of the presentation, which was to look at and present on content related to media archaeology. As I stated in my bio, I am very interested in the history of technology and how it affects the development and innovation of newer technologies. I believe that this presentation touches on some important aspects of media archaeology, using past and present analysis and some look into the future of similar technologies and how companies may look at the development of innovative technologies or at the very least improvements on those that exist now. I also consider the reasons why the piece of technology was not able to succeed, and how the aspects of the consumer culture could not allow the technology in question to flourish as a consumer product. The presentation gives us as students the opportunity to start thinking about media archaeology and its impact on the technology sector.
 
 
