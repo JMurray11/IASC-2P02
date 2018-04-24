@@ -23,7 +23,7 @@ For this project, our class was split into groups who were tasked with presentin
 
 Collaboration is a very vital piece of the Digital Humanities and has a significant impact on the development of my academic thinking and my knowledge of DH itself. Through collaboration, I am permitted to use various digital tools to collaborate with other people. Primarily in this project, we used Google Slides to offer real time changes to the presentation that each member of the group could review and add on to. Tools such as these allow for the enrichment of the content of the project, as many different points of view offer the audience a clearer, unbiased opinion on the content. This also allows me as a member of the digital humanities to listen to other opinions on topics we are similarly passionate about, and gather different points of view, which in turn expands my understanding of the topic, in this case Hypercities. Because we had decided to divide the portions of the presentation between each group member, the deliverable I contributed to the project was the written and verbal presentation the theoretical discussion part of the project, seen [here](https://github.com/IascAtBrock/IASC-2P02-TeamPresentations/commit/e1f8a661237f14fdc11b8f98a9cdd1adf6be261e). In terms of other deliverables, we had linked the website of Hypercities in our presentation’s repository, as well as some of the images we used in our slideshow.
 
-
+![](Images/ImageRepo)
 
 ## Blog Post
 
